@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Sales Data Analysis Dashboard
 
-![Power BI Dashboard](./sales.png)
+![Power BI Dashboard](image/sales.png)
 
 ## 📊 Project Overview
 
