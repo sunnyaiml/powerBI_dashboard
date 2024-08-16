@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Sales Data Analysis Dashboard
 
-![Power BI Dashboard](\image\sales.png.png)
+![Power BI Dashboard](image/sales.png)
 
 ## 📊 Project Overview
 
@@ -44,4 +44,4 @@ This project showcases a comprehensive Power BI dashboard developed to analyze a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/ecommerce-sales-dashboard.git
+   git clone https://github.com/sunnyaiml/powerBI_dashboard.git
